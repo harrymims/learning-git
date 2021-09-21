@@ -3,7 +3,7 @@
 <head>
 <title>HTML Tutorial</title>
 </head>
-<body
+<body>
 <p>This is a paragraph.</p>
 </body>
 </html>
